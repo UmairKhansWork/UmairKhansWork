@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @UmairKhansWork
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in Software Engineering and Data Science
+- 🌱 I’m currently learning Advanced Web Design
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Via Email -> umair.17172@gmail.com
 
